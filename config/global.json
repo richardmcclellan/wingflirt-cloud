@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "Wingflirt": {
+            "applicationId": "4WwI8h61F4R0MFqgDCqTd4syrkprrnmpXxaGFtL6", 
+            "masterKey": "pDxR87GbmLp9pMyyLbEyYSMGhZsJZhXPwVp7JZvJ"
+        }, 
+        "_default": {
+            "link": "Wingflirt"
+        }
+    }
+}
